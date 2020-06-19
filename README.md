@@ -1,5 +1,9 @@
 # Pursuit Core 6.2 - Capstone Projects
 
+For the past 10 weeks Pursuit Fellows worked in teams to build Full-Stack Web Apps & a React Native (mobile) App where they exercised the skills they developed during their Pursuit Core Fellowship. Fellows worked tirelessly through technical challenges, new technologies and the COVID-19 Pandemic to ultimately achieve the apps you see here today.
+
+I, [Alejandro Franco](https://github.com/alejo4373) & [Dessa Shepherd](https://www.linkedin.com/in/dessa-shepherd-7a55b374/), are proud to be leading such a gritty, talented and resilient group of people. :heart:
+
 ## Endeavor
 
 <img alt="Endeavor logo" width="500px" src="./logos/Endeavor.png" />
